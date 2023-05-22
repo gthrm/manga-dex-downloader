@@ -41,6 +41,7 @@ async function main() {
         }
 
         spinner.succeed('All pages downloaded');
+        await browser.close();
     } catch (error) {
         spinner.fail(`Error: ${error}`);
         await browser.close();

@@ -94,3 +94,6 @@ public
 
 # Screenshots
 *.png
+*.pdf
+
+.DC_Store
