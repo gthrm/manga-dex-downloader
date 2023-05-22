@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "ora": "^6.3.1",
+    "puppeteer": "^20.3.0"
+  },
+  "name": "manga-dex-downloader",
+  "type": "module",
+  "description": "MangaDex Downloader is a Node.js script that allows you to automatically download manga chapters from [Mangadex](https://mangadex.org/).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
